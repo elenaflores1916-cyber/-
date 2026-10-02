@@ -1,0 +1,12 @@
+{
+    "display_name": "心相引擎 · 独立判定",
+    "loading_order": 60,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "心相引擎",
+    "version": "1.4.1",
+    "homePage": "",
+    "description": "把心相引擎的落子判定从主API思考中剥离：插件真随机掷骰、本地复核算式、副API单次推演、性格存档跟随聊天，并读取柏宝书记忆插件的剧情快照。"
+}
